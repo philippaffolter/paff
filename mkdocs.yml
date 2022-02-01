@@ -1,7 +1,7 @@
 site_name: paff mkdocs
 site_description: 'A mkdocs test'
 site_author: 'Philipp Affolter'
-docs_dir: docs/
+#docs_dir: docs/
 repo_name: 'philippaffolter/paff'
 repo_url: 'https://github.com/philippaffolter/paff'
 nav:
